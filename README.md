@@ -12,6 +12,6 @@
 2. install guzzle from composer
 3. run php artisan key generate
 
-Check Live Website <a href="https://news24-uas.000webhostapp.com/">Click Here</a>
+Check Live Website <a href="https://news24-uas.000webhostapp.com/" target="_blank">Click Here</a>
 
 Thank You For Support 
